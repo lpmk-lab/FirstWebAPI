@@ -1,0 +1,6 @@
+2023-08-28 21:24:58,735 [.NET ThreadPool Worker] ERROR App  
+ LogError Logger 
+ 
+2023-08-28 21:24:58,752 [.NET ThreadPool Worker] FATAL App  
+ LogCritical Logger 
+ 
