@@ -59,7 +59,7 @@ namespace FirstWebAPI.Controllers
 
         }
         //[HttpGet("{id:int}")]
-        [Authorize(Policy = )]
+        [Authorize]
         [HttpGet]
         [Route("{id:int}", Name = "GetStudentByID")]
         [ProducesResponseType(StatusCodes.Status200OK)]
